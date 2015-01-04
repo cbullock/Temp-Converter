@@ -1,6 +1,6 @@
-#!/usr/bin/python3
-# feedback_template.py by Barron Stone
-# This is an exercise file from Python GUI Development with Tkinter on lynda.com
+#!/usr/bin/env python3
+#This will convert between 2 termperature scales
+
 
 from tkinter import *
 from tkinter import ttk
